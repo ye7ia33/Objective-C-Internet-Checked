@@ -1,4 +1,6 @@
-        copy files on ur project and follow this code 
+// copy files on ur project and follow this code 
+        
+        
         InternetChecked *internet =[[InternetChecked alloc] init];
     if (internet.Checked) {
     // if u have internet connection in your device 
